@@ -1,2 +1,1 @@
-ssedsdcsxdc
-My first comiitt
+exploring Git commands
